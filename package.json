@@ -16,5 +16,8 @@
     "babel-loader": "^8.1.0",
     "webpack": "^4.44.0",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "toile": "^0.0.6"
   }
 }
